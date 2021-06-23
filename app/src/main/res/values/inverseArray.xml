@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="inverseNumbers">
+        <item>@drawable/inverseone</item>
+        <item>@drawable/inversetwo</item>
+        <item>@drawable/inversethree</item>
+        <item>@drawable/inversefour</item>
+        <item>@drawable/inversefive</item>
+        <item>@drawable/inversesix</item>
+        <item>@drawable/inverseseven</item>
+        <item>@drawable/inverseeight</item>
+        <item>@drawable/inversenine</item>
+    </integer-array>
+</resources>
